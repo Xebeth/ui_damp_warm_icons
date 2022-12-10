@@ -1,0 +1,16 @@
+[ID:ui_damp_warm_icons]
+[NUMERIC_VERSION:101]
+[DISPLAYED_VERSION:1.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.01]
+[AUTHOR:Beorn Blackclaw]
+[NAME:Alternate warm/damp icons]
+[DESCRIPTION:Replaces the warm/damp icons.]
+
+[STEAM_TITLE:Alternate warm/damp icons]
+[STEAM_TAG:mod]
+[STEAM_TAG:ui]
+[STEAM_CHANGELOG:Fixed the raws]
+
+
+[STEAM_FILE_ID:2899671274]
